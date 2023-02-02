@@ -5,4 +5,5 @@
 
  # Spotify Import Guide
  - **Request your data from Spotify**
+ In order to request the endsong.json files, simply press the correct buttons on the Spotify website.
 
