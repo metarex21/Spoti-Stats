@@ -6,6 +6,6 @@
  # Spotify Import Guide
  - **Request your data from Spotify**<br>
  In order to request the endsong.json files, simply press the correct buttons on the Spotify website.
- <t>1.To get started, open the [Privacy page](https://www.spotify.com/account/privacy/) on the Spotify website.<br>
- <t>2. Scroll down to the "Download your data" section.
+    <t>1.To get started, open the [Privacy page](https://www.spotify.com/account/privacy/) on the Spotify website.<br>
+    <t>2. Scroll down to the "Download your data" section.
 
