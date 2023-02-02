@@ -19,7 +19,7 @@ Press **Confirm**
 ![preview](email2-preview.png)<br>
 This can take around 5 days. But trust me, worth the wait!♥<br>
 ### **4. Download and extract the files**<br>
-Once your data is ready to download, you'll get an email with a link to download a .ZIP file. You need to extract this file before proceeding. You can learn how to extract .ZIP files [on this page]<br>(https://www.youtube.com/watch?v=XAFwU2BQwHE).<br>
+Once your data is ready to download, you'll get an email with a link to download a .ZIP file. You need to extract this file before proceeding. You can learn how to extract .ZIP files [on this page](https://www.youtube.com/watch?v=XAFwU2BQwHE).<br>
 ![preview](email3-preview.png)<br>
 ### **5. Copy the Code to a Python3 Interpreter**<br>
 Once you have the json files, you can feed them to the code(yet to be pushed to the repo) and get your amazing stats! Voila!
