@@ -4,5 +4,5 @@
  Until then, let's get to know how to import your data from Spotify!
 
  # Spotify Import Guide
- - **1. Request your data from Spotify**
+ - ** Request your data from Spotify**
 
